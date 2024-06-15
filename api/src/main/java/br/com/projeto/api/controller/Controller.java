@@ -8,7 +8,7 @@ public class Controller {
 
     @GetMapping("/")
     public String teste() {
-        return "Hello World!";
+        return "Hello World - Spring + Angular!";
     }
 
 }
